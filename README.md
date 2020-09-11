@@ -19,7 +19,7 @@ Implements sessions, tokens and conections via API
 
 
 # How to Install
-Download or clone this repo from: https://github.com/ChrisQbit/Academy.git
+Download or clone this repo from: https://github.com/ChrisQbit/EShop.git
 Install composer
 Install npm
 
